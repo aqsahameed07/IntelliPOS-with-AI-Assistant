@@ -7,9 +7,9 @@ IntelliPOS is an AI-powered Enterprise Resource Planning (ERP) and Point of Sale
 
 📂 **All Demos:** https://drive.google.com/drive/folders/1XqHi5518E_yiShCRIg6TrAix3sv5FrpV?usp=sharing
 
-- 👑 Admin Dashboard Demo
-- 👤 Customer Portal Demo
-- 👨‍💼 Employee Dashboard Demo
+- 👑 Admin Dashboard Demo: https://drive.google.com/file/d/1g_sNsbRp2nLwtC4TZTMxHuMCwHi-skvR/view?usp=drive_link
+- 👤 Customer Portal Demo: https://drive.google.com/file/d/1F_ZxlHgVQrklBrOWufWSEWmhLoQ2yyoQ/view?usp=drive_link
+- 👨‍💼 Employee Dashboard Demo: https://drive.google.com/file/d/1t51iX22L8dVLnM3DgDLq8HB8fAvv5NLB/view?usp=drive_link
 - 🤖 AI Assistant Demo: https://drive.google.com/file/d/1jPRfxur6z-hSIXlaHV6KZz9zGgcFanf5/view?usp=sharing
 
 The demo showcases:
@@ -127,7 +127,8 @@ Allow customers to browse products and place orders.
 
 Admin Dashboard
 
-*Add Dashboard Screenshot Here*
+<img width="1899" height="879" alt="image" src="https://github.com/user-attachments/assets/c49939aa-0de1-4a56-920e-81f569d20582" />
+
 
 ### AI Assistant
 
