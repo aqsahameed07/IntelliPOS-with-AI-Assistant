@@ -2,10 +2,15 @@
 
 IntelliPOS is an AI-powered Enterprise Resource Planning (ERP) and Point of Sale (POS) system designed to streamline business operations through a single unified platform. The system combines inventory management, customer relationship management, employee management, sales processing, analytics, and an intelligent AI assistant that allows users to interact with business data using natural language commands.
 
-## Demo
 
-🎥 **Project Walkthrough:**
-[Add Google Drive / YouTube Demo Link Here]
+## 🎥 Live Project Demos
+
+📂 **All Demos:** https://drive.google.com/drive/folders/1XqHi5518E_yiShCRIg6TrAix3sv5FrpV?usp=sharing
+
+- 👑 Admin Dashboard Demo
+- 👤 Customer Portal Demo
+- 👨‍💼 Employee Dashboard Demo
+- 🤖 AI Assistant Demo: https://drive.google.com/file/d/1jPRfxur6z-hSIXlaHV6KZz9zGgcFanf5/view?usp=sharing
 
 The demo showcases:
 
@@ -120,7 +125,7 @@ Allow customers to browse products and place orders.
 
 ## Screenshots
 
-### Dashboard
+Admin Dashboard
 
 *Add Dashboard Screenshot Here*
 
