@@ -129,28 +129,8 @@ Admin Dashboard
 
 <img width="1899" height="879" alt="image" src="https://github.com/user-attachments/assets/c49939aa-0de1-4a56-920e-81f569d20582" />
 
-
-### AI Assistant
-
-*Add AI Assistant Screenshot Here*
-
-### Inventory Management
-
-*Add Inventory Screenshot Here*
-
-### Customer Management
-
-*Add Customer Management Screenshot Here*
-
-### Sales & Billing (POS)
-
-*Add POS Screenshot Here*
-
-### Customer Portal
-
-*Add Customer Portal Screenshot Here*
-
----
+<img width="1900" height="864" alt="admin dashboard 2" src="https://github.com/user-attachments/assets/3063534b-a8ad-4705-a63a-844fc218c753" />
+with activity tracking
 
 ## Technology Stack
 
